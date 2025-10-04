@@ -2,13 +2,7 @@
 
 A powerful document Q&A application that leverages Hybrid Search (RAG) and local LLMs for comprehensive answers. Built with RAGLite for robust document processing and retrieval, and Streamlit for an intuitive chat interface, this system combines document-specific knowledge with local LLM capabilities to deliver accurate and contextual responses.
 
-## Demo:
-
-
-https://github.com/user-attachments/assets/375da089-1ab9-4bf4-b6f3-733f44e47403
-
-
-## Quick Start
+## How to Test
 
 For immediate testing, use these tested model configurations:
 ```bash
